@@ -12,5 +12,5 @@ Conduct different ways of network compression so that the size of the convolutio
 * Access the notebook to run the codes: https://colab.research.google.com/drive/1aJ1wKmbK2vwpoZlF4azw6HgVjAwrpFRl?usp=sharing
 
 ### Run on Colab (can save your own version)
-* Run this command: git clone <https://github.com/b05702057/Model-Attacking-Defending.git>
+* Run this command: git clone <https://github.com/b05702057/Network-Compression.git>
 * Upload the .ipynb files to your google drive and open it with colab
